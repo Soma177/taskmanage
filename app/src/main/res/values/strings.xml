@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Productivity App</string>
+    <string name="priority_prompt">Выберите приоритет</string>
+    <string name="category_prompt">Выберите категорию</string>
+</resources>
